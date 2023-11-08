@@ -1,0 +1,7 @@
+pip install jupyterlab
+jupyter lab
+pip install virtualenv
+py -3.8 -m virtualenv env
+source env/scripts/activate
+
+
